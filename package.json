@@ -1,0 +1,10 @@
+{
+  "name": "ctxrot-lab-automation",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Internal automation scripts for publishing future-trends-dictionary articles to note.com",
+  "dependencies": {
+    "playwright": "^1.47.0",
+    "dotenv": "^16.4.5"
+  }
+}
