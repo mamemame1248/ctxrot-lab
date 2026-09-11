@@ -45,7 +45,7 @@ AIの性能が上がるほど、悪用されたときのリスクも大きくな
 - VentureBeat: https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads
 
 【HEADER_IMAGE_PROMPT】
-2つに枝分かれする光の道、片方は開かれた扉、もう片方は鍵のかかった扉、テクノロジーを感じさせる抽象的な表現
+二重の扉が少しだけ開いて、内側から柔らかい光が漏れているフラットイラスト、慎重さと期待感が同居する雰囲気、紺と淡い金の配色
 
 スタイル：フラットイラスト、ミニマルな幾何学的表現、彩度控えめで上品な配色、文字は一切入れない、写実的な実在人物・実在ブランドロゴは描かない、横長16:9、モダンなWebメディアのアイキャッチ画像として使える構図
 
