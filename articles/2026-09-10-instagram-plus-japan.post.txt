@@ -43,6 +43,11 @@ Instagramに月額319円の有料プランが登場しました。「見られ�
 - Meta公式: https://about.fb.com/ja/news/2026/06/introducing-instagram-plus/
 - ITmedia: https://www.itmedia.co.jp/news/articles/2606/05/news085.html
 
+【HEADER_IMAGE_PROMPT】
+スマートフォンの画面の中で、一つの投稿だけが金色の光を放って目立っているフラットイラスト、他はモノトーンの投稿
+
+スタイル：フラットイラスト、ミニマルな幾何学的表現、彩度控えめで上品な配色、文字は一切入れない、写実的な実在人物・実在ブランドロゴは描かない、横長16:9、モダンなWebメディアのアイキャッチ画像として使える構図
+
 【CATEGORY】
 夜
 

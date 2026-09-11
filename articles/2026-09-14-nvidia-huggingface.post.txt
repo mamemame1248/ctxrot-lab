@@ -44,6 +44,11 @@ Nvidiaが開発者2000万人近いAIプラットフォーム「Hugging Face」�
 - Fortune: https://fortune.com/2026/09/03/hugging-face-goes-from-a-scrappy-startup-named-after-an-emoji-to-13-billion-nvidia-acquisition/
 - Forbes: https://www.forbes.com/sites/zacharyfolk/2026/09/03/nvidia-is-acquiring-hugging-face-for-almost-13-billion/
 
+【HEADER_IMAGE_PROMPT】
+大きな緑色のチップのアイコンが、たくさんの小さな歯車やアイコン（開発者を象徴する抽象的な人型シルエット）が集まる広場のようなスペースを優しく包み込むフラットイラスト。実在企業ロゴは描かない。
+
+スタイル：フラットイラスト、ミニマルな幾何学的表現、彩度控えめで上品な配色、文字は一切入れない、写実的な実在人物・実在ブランドロゴは描かない、横長16:9、モダンなWebメディアのアイキャッチ画像として使える構図
+
 【CATEGORY】
 朝
 

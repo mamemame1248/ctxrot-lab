@@ -44,6 +44,11 @@
 - ホテルバンク: https://hotelbank.jp/seasonal-events/silver-week-2026-11years-autumn-resort-adr/
 - ウェザーニュース: https://weathernews.jp/news/202609/080101/
 
+【HEADER_IMAGE_PROMPT】
+カレンダーの5マスが金色に輝いているフラットイラスト。周りに旅行かばんや観光地を思わせる抽象的なアイコンを配置。文字は入れない。
+
+スタイル：フラットイラスト、ミニマルな幾何学的表現、彩度控えめで上品な配色、文字は一切入れない、写実的な実在人物・実在ブランドロゴは描かない、横長16:9、モダンなWebメディアのアイキャッチ画像として使える構図
+
 【CATEGORY】
 夜
 

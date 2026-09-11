@@ -43,6 +43,11 @@
 - Marketplace: https://www.marketplace.org/story/2026/09/09/fed-chair-warsh-is-caught-between-silence-and-guidance
 - Chase: https://www.chase.com/personal/investments/learning-and-insights/article/kevin-warsh-work-to-do-fighting-inflation-what-to-expect-september-2026-federal-reserve-meeting
 
+【HEADER_IMAGE_PROMPT】
+上下に矢印が引っ張り合う天秤のようなシルエットに、ドルマークが乗っているフラットイラスト。文字・実在人物は描かない。
+
+スタイル：フラットイラスト、ミニマルな幾何学的表現、彩度控えめで上品な配色、文字は一切入れない、写実的な実在人物・実在ブランドロゴは描かない、横長16:9、モダンなWebメディアのアイキャッチ画像として使える構図
+
 【CATEGORY】
 朝
 

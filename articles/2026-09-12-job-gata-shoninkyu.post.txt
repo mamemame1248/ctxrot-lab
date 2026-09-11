@@ -44,6 +44,11 @@
 - 日立公式: https://www.hitachi.com/ja-jp/press/articles/2026/03/0302a/
 - TDB初任給調査: https://www.tdb.co.jp/report/economic/20260218-startingsalary2026/
 
+【HEADER_IMAGE_PROMPT】
+同じ形をしていた給与袋が、それぞれ違う大きさに変化していくフラットイラスト、公平さと個別化を対比させた構図
+
+スタイル：フラットイラスト、ミニマルな幾何学的表現、彩度控えめで上品な配色、文字は一切入れない、写実的な実在人物・実在ブランドロゴは描かない、横長16:9、モダンなWebメディアのアイキャッチ画像として使える構図
+
 【CATEGORY】
 昼
 

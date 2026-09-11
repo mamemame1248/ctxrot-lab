@@ -43,6 +43,11 @@ TikTokのコメント欄が、声や写真でも反応できるようになり�
 - MarkeZine: https://markezine.jp/news/detail/77543
 - ByteDance(PR TIMES): https://prtimes.jp/main/html/rd/p/000001345.000030435.html
 
+【HEADER_IMAGE_PROMPT】
+吹き出しの中に文字だけでなく、音符や写真のアイコンが混ざって浮かんでいるフラットイラスト、カラフルで楽しい雰囲気
+
+スタイル：フラットイラスト、ミニマルな幾何学的表現、彩度控えめで上品な配色、文字は一切入れない、写実的な実在人物・実在ブランドロゴは描かない、横長16:9、モダンなWebメディアのアイキャッチ画像として使える構図
+
 【CATEGORY】
 夜
 

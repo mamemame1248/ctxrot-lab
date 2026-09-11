@@ -44,6 +44,11 @@ Oracleが「AIが理由」と明言して従業員の13%を削減。世界のテ
 - Business Insider Japan: https://www.businessinsider.jp/article/2026-07-ai-layoff-report-bigtech/
 - Uravation: https://uravation.com/media/ai-layoffs-q1-2026-reskilling-strategy/
 
+【HEADER_IMAGE_PROMPT】
+会社の建物のシルエットから、人型アイコンが少しずつ減っていき、代わりに歯車やAIを象徴する抽象的なアイコンが増えていくフラットイラスト。文字は入れない。
+
+スタイル：フラットイラスト、ミニマルな幾何学的表現、彩度控えめで上品な配色、文字は一切入れない、写実的な実在人物・実在ブランドロゴは描かない、横長16:9、モダンなWebメディアのアイキャッチ画像として使える構図
+
 【CATEGORY】
 昼
 

@@ -50,6 +50,11 @@ JTBが2026年9月1日に発表した予約動向によると、今年のシル�
 - Yahoo!ニュース/Merkmal: https://news.yahoo.co.jp/articles/9c880554790a19be4f631b286609398d822f901d
 - チュソク関連: https://www.japanticket.com/column/visito-to-japan/inbound-calender-strategy/
 
+【HEADER_IMAGE_PROMPT】
+飛行機雲が日本から台湾・韓国方面へ伸びていく地図イラスト。旅行かばんやパスポートのモチーフを添えて、開放的で楽しい休暇の雰囲気を表現。
+
+スタイル：フラットイラスト、ミニマルな幾何学的表現、彩度控えめで上品な配色（ターコイズ×オレンジ）、文字は一切入れない、写実的な実在人物・実在ブランドロゴは描かない、横長16:9、モダンなWebメディアのアイキャッチ画像として使える構図
+
 【CATEGORY】
 夜
 

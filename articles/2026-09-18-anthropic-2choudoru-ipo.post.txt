@@ -43,6 +43,11 @@ Anthropicが評価額2兆ドルで10月にもIPO？という観測が浮上。�
 - PYMNTS: https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-could-seek-2-trillion-valuation-in-record-ipo/
 - Yahoo Finance: https://finance.yahoo.com/technology/ai/articles/anthropic-investors-target-2-trillion-132255261.html
 
+【HEADER_IMAGE_PROMPT】
+急角度で右肩上がりになる棒グラフのシルエットと、ロケットのアイコンが組み合わさったフラットイラスト。実在企業ロゴ・実在人物は描かない。
+
+スタイル：フラットイラスト、ミニマルな幾何学的表現、彩度控えめで上品な配色、文字は一切入れない、写実的な実在人物・実在ブランドロゴは描かない、横長16:9、モダンなWebメディアのアイキャッチ画像として使える構図
+
 【CATEGORY】
 朝
 

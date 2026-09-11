@@ -44,6 +44,11 @@
 - 価格改定まとめ: https://plastic-pallet.co.jp/price-hike-list-2026-october/
 - 値上げ情報まとめ: https://papamamamoney.com/trend/2026-october-price-increase/
 
+【HEADER_IMAGE_PROMPT】
+スーパーの陳列棚をイメージしたフラットイラスト。値札のアイコンの一部が上向き矢印、一部が下向き矢印になっている対比のある構図。文字・ブランドロゴは描かない。
+
+スタイル：フラットイラスト、ミニマルな幾何学的表現、彩度控えめで上品な配色、文字は一切入れない、写実的な実在人物・実在ブランドロゴは描かない、横長16:9、モダンなWebメディアのアイキャッチ画像として使える構図
+
 【CATEGORY】
 朝
 

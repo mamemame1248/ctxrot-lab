@@ -43,6 +43,11 @@
 - エネチェンジ: https://enechange.jp/articles/electricity-price-increase
 - 家族ラボ: https://kazokulab.com/guides/2026-10gatsu-neage-ichiran/
 
+【HEADER_IMAGE_PROMPT】
+電球のアイコンと、下向きに減っていく補助金のコインのアイコンが組み合わさったフラットイラスト。文字は入れない。
+
+スタイル：フラットイラスト、ミニマルな幾何学的表現、彩度控えめで上品な配色、文字は一切入れない、写実的な実在人物・実在ブランドロゴは描かない、横長16:9、モダンなWebメディアのアイキャッチ画像として使える構図
+
 【CATEGORY】
 昼
 

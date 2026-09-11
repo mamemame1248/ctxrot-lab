@@ -44,6 +44,11 @@ Appleは2026年9月9日午前10時（米国太平洋時間）、「Surprise and 
 - MacRumors(告知): https://www.macrumors.com/2026/08/27/apple-event-announced-six-new-products/
 - AppleInsider: https://appleinsider.com/articles/26/08/26/what-to-expect-from-apples-surprise-and-shine-iphone-18-pro-event-on-september-9
 
+【HEADER_IMAGE_PROMPT】
+半分開いた紙のように折り目のあるスマートフォンのシルエット、光がその折り目から漏れているイメージ、未来的で洗練された雰囲気
+
+スタイル：フラットイラスト、ミニマルな幾何学的表現、彩度控えめで上品な配色、文字は一切入れない、写実的な実在人物・実在ブランドロゴは描かない、横長16:9、モダンなWebメディアのアイキャッチ画像として使える構図
+
 【CATEGORY】
 朝
 
