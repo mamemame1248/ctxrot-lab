@@ -14,8 +14,9 @@
     "#台風"
   ],
   "final_verdict": "B",
-  "verdict_reason": "主催者公式発表(X投稿)に基づく確定情報。当該投稿はネットワークポリシー上ユーザーから直接共有されたテキストで確認、URLでの自動検証は不可。",
+  "verdict_reason": "東京ゲームショウ公式サイトのお知らせページおよび公式X投稿に基づく確定情報。両URLとも自動アクセスがブロックされるため、ユーザー提供のテキスト・スクリーンショットで内容を確認。",
   "sources": [
+    "https://tgs.cesa.or.jp/2026/news/detail/00060",
     "https://x.com/tokyo_game_show/status/2101204902513180905",
     "https://www.jiji.com/jc/article?k=2026091700101&g=eco",
     "https://xtrend.nikkei.com/atcl/contents/18/01479/00004/"

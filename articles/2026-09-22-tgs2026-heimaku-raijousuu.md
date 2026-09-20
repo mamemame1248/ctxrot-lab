@@ -50,7 +50,10 @@ TGS2026は開催30周年を記念し、史上初となる5日間開催(9/17〜21
 ---
 
 **情報源**
-- [東京ゲームショウ公式X(@tokyo_game_show)の告知](https://x.com/tokyo_game_show/status/2101204902513180905)（このセッションのネットワークポリシーによりX/旧Twitterへの自動アクセスができないため、投稿内容はユーザー提供のテキストに基づく）
-- [Game*Spark](https://www.gamespark.jp/article/2025/09/29/157811.html)
-- [4Gamer](https://www.4gamer.net/games/991/G999110/20250928058/)
-- [CESA公式](https://tgs.cesa.or.jp/2025/en/news/detail/41040)
+- [東京ゲームショウ2026公式サイト お知らせ](https://tgs.cesa.or.jp/2026/news/detail/00060)（台風25号接近に伴う開催・払い戻しの公式告知）
+- [東京ゲームショウ公式X(@tokyo_game_show)の告知](https://x.com/tokyo_game_show/status/2101204902513180905)（同内容の投稿）
+- [Game*Spark](https://www.gamespark.jp/article/2025/09/29/157811.html)（過去の来場者記録）
+- [4Gamer](https://www.4gamer.net/games/991/G999110/20250928058/)（過去の来場者記録）
+- [CESA公式（2025年発表）](https://tgs.cesa.or.jp/2025/en/news/detail/41040)（過去の来場者記録）
+
+※お知らせページ・X投稿は、このセッションのネットワークポリシーにより自動アクセスができないため、内容はユーザーが共有したテキスト・スクリーンショットに基づいて確認しています。
