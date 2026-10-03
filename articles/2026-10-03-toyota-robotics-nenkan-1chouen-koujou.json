@@ -16,17 +16,8 @@
   "final_verdict": "B",
   "verdict_reason": "40万台・年間1兆円という数字自体は投資家向けイベントでの発言として複数報道で一致しているが、トヨタ自身が実行や継続年数を確約していないため確定計画ではない。公開直前に最新報道で変更がないか再確認を推奨。",
   "sources": [
-    {
-      "name": "Car Watch (Impress)",
-      "url": "https://car.watch.impress.co.jp/docs/news/2142443.html"
-    },
-    {
-      "name": "just-auto.com",
-      "url": "https://www.just-auto.com/newsletters/toyota-to-deploy-humanoid-robots-at-its-global-plants-from-2028"
-    },
-    {
-      "name": "MarketScale",
-      "url": "https://marketscale.com/industries/industrial-iot/toyota-estimates-up-to-1-trillion-yen-a-year-for-factory-automation-from-2028"
-    }
+    "https://car.watch.impress.co.jp/docs/news/2142443.html",
+    "https://www.just-auto.com/newsletters/toyota-to-deploy-humanoid-robots-at-its-global-plants-from-2028",
+    "https://marketscale.com/industries/industrial-iot/toyota-estimates-up-to-1-trillion-yen-a-year-for-factory-automation-from-2028"
   ]
 }
