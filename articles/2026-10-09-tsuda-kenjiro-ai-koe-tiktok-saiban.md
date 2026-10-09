@@ -60,3 +60,4 @@ AIで人の声を模倣する技術が広がる中、「自分の声が無断で
 - [熊本日日新聞](https://kumanichi.com/articles/2041247)
 - [kai-you.net(請求棄却を明確に報道)](https://kai-you.net/article/96706)
 - [nippon.com(時事通信配信)](https://www.nippon.com/hk/news/yjj2026093000118/)
+- [inside.com.tw(台湾メディア、見出しに「勝訴」の表現あり)](https://www.inside.com.tw/article/42554-japan-voice-actor-tsuda-tiktok-ai-voice-cloning-ruling)
