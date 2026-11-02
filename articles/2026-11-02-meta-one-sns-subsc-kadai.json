@@ -1,0 +1,24 @@
+{
+  "title": "無料だったはずのSNSに、月額319円からの新しい選択肢ができた",
+  "quality_score": 80,
+  "recommended_time": "2026-11-02 18:00",
+  "note_body": "導入\nInstagram、Facebook、WhatsApp——これまで無料で使うのが当たり前だったSNSに、お金を払うという新しい選択肢が本格的に登場している。Metaは2026年、これらのアプリ向けに有料プランを展開し、さらに束ねた新サービス「Meta One」も始めた。\n\nこの記事でわかること\n・MetaのSNS有料プランが、具体的にどんな内容なのか\n・なぜ無料が当たり前だったSNSに、課金の仕組みが広がっているのか\n・実際に払うと、何が変わるのか\n\n① 何が起きた？\nMetaは2026年5月下旬、Instagram・Facebook・WhatsApp向けにそれぞれ単体の有料プラン「Instagram Plus」「Facebook Plus」「WhatsApp Plus」の世界展開を発表した。日本での月額料金(税込)は、Instagram Plusと Facebook Plusがそれぞれ319円、WhatsApp Plusが239円。米国ではInstagram Plus・Facebook Plusが各3.99ドル、WhatsApp Plusが2.99ドルとされている。\n\n続いて2026年9月、これらの単体プランを束ねたバンドルサービス「Meta One」が発表され、世界展開が始まった。Instagram・Facebook・WhatsApp・Meta AIを横断して使える仕組みで、Meta AIによる画像・動画生成やアプリ内AI機能の利用枠を拡大する「Meta One Core」(日本では月額949円)などのプランが用意されている。一方で、基本的なアプリ機能と日常的なMeta AIの利用は、引き続き無料のままだ。なお、一部報道には「月額299円から」という見出しもあるが、具体的にどのプランを指すのかは本文で確認できず、この記事では確認できた319円・239円・949円という数字を基準に記載している。\n\n② なぜ今、注目されている？\nInstagramやFacebookのようなSNSは、長年「広告を見る代わりに無料で使える」というモデルで運営されてきた。今回の有料プラン展開は、その前提に新しい選択肢を加える動きだ。背景には、AI機能の開発・運用にかかる莫大なコストを、広告収入だけでなく利用者からの直接的な収入でも支えようとする狙いがあるとみられている。「無料で使えるSNS」という当たり前の感覚が、今後少しずつ変わっていく可能性を示す出来事といえる。\n\n③ 私たちの生活はどう変わる？\n・ストーリーズの閲覧者を非表示にしたり、DMのフォントをカスタマイズしたりといった、これまでなかった機能を使いたい人には新しい選択肢が生まれる\n・Meta AIの画像・動画生成をより多く使いたい人にとって、有料プランが実用的な手段になる\n・基本機能は無料のままなので、今の使い方を変えずに済ませることもできる\n\n④ これからどうなる？\n【事実】Metaが2026年5月下旬にInstagram Plus・Facebook Plus・WhatsApp Plusの世界展開を発表したこと、日本の月額料金がInstagram Plus・Facebook Plus各319円・WhatsApp Plus239円(いずれも税込)であること、2026年9月にこれらを束ねたバンドルサービス「Meta One」が発表され世界展開が始まったこと、日本でのMeta One Coreが月額949円であることは、複数の報道で確認できる確定情報。\n【予測】「月額299円から」という一部報道の具体的な対象プランについては、この記事の執筆時点では確認できていない。\n\n⑤ 今から知っておきたいこと\n・Instagram Plus・Facebook Plusは日本で月額319円、WhatsApp Plusは239円\n・2026年9月に始まった「Meta One」は、これらを束ねたバンドルサービスで、Meta One Coreは月額949円\n・基本的なアプリ機能とMeta AIの日常利用は、引き続き無料で使える\n\nまとめ\nSNSの「無料」という前提が、少しずつ選択肢の一つに変わっていく。あなたなら、今のまま無料で使い続けるか、新しい機能にお金を払うか、どちらを選ぶだろうか。",
+  "sns_text": "Metaが2026年5月にInstagram/Facebook/WhatsApp向け有料プラン(日本319円/319円/239円)を展開、9月にはこれらを束ねた「Meta One」(Core版949円)を開始。基本機能は無料のままですが、SNSの「無料」という前提に新しい選択肢が加わりました。",
+  "tags": [
+    "Meta",
+    "Instagram",
+    "SNS",
+    "AI",
+    "未来"
+  ],
+  "final_verdict": "A",
+  "verdict_reason": "Meta One及びInstagram Plus/Facebook Plus/WhatsApp Plus(2026年5月展開、9月Meta One発表)は、Impress Watch・GameBusiness.jp・Business Insider Japan・techno-edge.net等複数ソースでWebSearch独立検証し、日本での料金(319円/319円/239円、Meta One Core 949円)が一致した。研究Agentが報告した「Facebook Plus日本月額19円/319円の矛盾」は独立検証では319円に一致確認でき「19円」は見当たらなかったため、この点は不採用情報として扱わなかった。一方「月額299円から」という一部見出しの対象プランは本文で確認できなかったため、記事中で明記した。SNSの広告モデルからサブスク+AI機能への転換という独自視点を入れた。",
+  "date": "2026-11-02",
+  "category": "夜",
+  "sources": [
+    "https://www.watch.impress.co.jp/docs/news/2141036.html",
+    "https://www.gamebusiness.jp/article/2026/09/17/28076.html",
+    "https://www.businessinsider.jp/article/2609-meta-launches-meta-new-subscription/",
+    "https://www.techno-edge.net/article/2026/09/16/5501.html"
+  ]
+}
