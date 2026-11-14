@@ -1,0 +1,70 @@
+【POST_TITLE】
+AIが会議に同席して、話しながらタスクを進める時代が来た
+
+【POST_BODY】
+導入
+会議中にメモを取る人がいなくても、議事録はもうできている——そんな働き方が現実になりつつある。AI企業のAnthropicは2026年11月10日、会議・表計算・ホワイトボードといった、オフィスの基本的な仕事道具にAIを組み込んだ新機能群を発表した。GoogleやMicrosoftが得意としてきた「オフィスソフト」の領域に、AI企業が本格的に踏み込んだ形だ。
+
+この記事でわかること
+・新しく発表された「Claude Meetings」などが、具体的に何をしてくれるのか
+・なぜ今、AI企業がオフィスソフトに進出しているのか
+・誰が、いつから使えるようになるのか
+
+① 何が起きた？
+Anthropicは2026年11月10日、「Claude Meetings」「Claude Whiteboards」「Claude Sheets」という3つの新ツールを発表し、あわせて以前「Claude Dashboards」と呼ばれていた機能を「Claude Data」として一般提供を開始した。
+
+「Claude Meetings」は、AIがオンライン会議に同席し、参加者が話している間にタスクを進めてくれる機能だ。発表時点ではGoogle Meetのみに対応し、Team・Enterpriseプランでベータ提供されている。「Claude Whiteboards」は、会議中にホワイトボードの内容が自動で組み立てられていく機能で、「Claude Meetings」の中でも使える。「Claude Sheets」は表計算機能で、こちらも有料プランでベータ提供中だ。いずれもウェブ・デスクトップ・モバイルで利用できる。
+
+管理者向けの設定では、Teamプランでは3つの機能がすべて初期状態で有効になっている一方、Enterpriseプランでは「Claude Whiteboards」と「Claude Sheets」は初期状態で無効、「Claude Data」は2026年11月19日から初期状態で有効になる予定だという。
+
+② なぜ今、注目されている？
+これまでAI企業の多くは「チャットで質問に答える」という形でAIを提供してきたが、今回の発表は「会議・表計算・ホワイトボードという、仕事の現場そのものにAIを常駐させる」という一歩先の動きだ。会議の内容を聞きながらタスクを進めるAIは、従来の「議事録を後から作る」という発想を超えている。GoogleやMicrosoftが長年提供してきたオフィスソフトの領域に、AI企業が独自の形で参入してきたことは、働き方そのものの競争軸が変わりつつあることを示している。
+
+③ 私たちの生活はどう変わる？
+・会議に出席しながら、AIが同時進行でメモやタスク整理を進めてくれる働き方が、まず一部の企業から広がっていく可能性がある
+・表計算やホワイトボードづくりといった、地味だが時間のかかる作業がAIに任せられるようになるかもしれない
+・一方で、現時点では対応する会議サービスがGoogle Meetのみで、企業向けプランが中心のため、個人が今すぐ体感できる変化ではない
+
+④ これからどうなる？
+【事実】Anthropicが2026年11月10日に「Claude Meetings」「Claude Whiteboards」「Claude Sheets」を発表し、「Claude Data」を一般提供したこと、Google Meet対応・Team/Enterpriseプランでのベータ提供という条件は、複数の報道で確認できる内容。
+【予測】他の会議サービス(Zoom、Microsoft Teamsなど)への対応が広がるか、個人向けプランにも展開されるかについては、この記事の執筆時点では発表がなく、わからない。
+
+⑤ 今から知っておきたいこと
+・AnthropicがAIを会議・表計算・ホワイトボードに組み込んだ新ツール群を発表した
+・「Claude Meetings」はGoogle Meet限定で、会議中にタスクを進める機能
+・現時点では企業向けプランが中心で、個人がすぐ使える機能ではない
+
+まとめ
+会議に出ながら仕事を進めるAIは、オフィスワークの当たり前を少しずつ変えていきそうだ。対応サービスや利用できる人が広がっていくのか、続報を見ていきたい。
+
+【TAGS】
+#AI #Anthropic #Claude #働き方 #未来
+
+【SNS_TEXT】
+Anthropicが2026年11月10日、会議に同席してタスクを進める「Claude Meetings」、ホワイトボード機能、表計算機能「Claude Sheets」を発表しました。GoogleやMicrosoftのオフィスソフト領域にAI企業が踏み込んだ形です。現時点ではGoogle Meet限定・企業向けプラン中心です。
+
+【SOURCE】
+- BetaNews: https://betanews.com/article/claude-meetings-whiteboards-sheets-anthropic/
+- TechCrunch: https://techcrunch.com/?p=3186876
+- Reworked: https://www.reworked.co/digital-workplace/anthropic-turns-claude-into-an-ai-office-suite/
+- iTechPost: https://www.itechpost.com/articles/237776/20261111/claude-gets-new-workplace-tools-anthropic-takes-aim-microsoft-office-google-workspace.htm
+
+【HEADER_IMAGE_PROMPT】
+シンプルな幾何学的な会議テーブルを囲む、丸みを帯びた抽象的な人型アイコンが数人並んでいるフラットイラスト。テーブルの中央に、小さなホワイトボードと表計算のマス目を思わせる控えめな幾何学モチーフが浮かび上がり、柔らかな光で描かれている(文字や具体的な内容は描かない)。落ち着いたテラコッタとセージグリーンを基調にした、知的で前向きな配色。
+
+スタイル:フラットイラスト、ミニマルな幾何学的表現、彩度控えめで上品な配色、文字は一切入れない、写実的な実在人物・実在ブランドロゴは描かない、横長16:9、モダンなWebメディアのアイキャッチ画像として使える構図
+
+【CATEGORY】
+朝
+
+【SCHEDULE】
+2026-11-15 07:00
+
+【QUALITY_SCORE】
+83
+
+【NOTE_OPERATION】
+note.comへの接続はこのセッションのネットワークポリシーによりブロックされているため、note操作(下書き保存等)は実行していません。本文・タグ・SNS投稿文・画像依頼文をリポジトリに保存するところまでで完了とします。
+
+【最終判定】
+A(研究Agentの候補4件中、Anthropic Claude Meetings/Sheets/Whiteboards(83点)とNvidia CEOジェンスン・フアン氏辞任(83点、SEC 8-K原文で確認済み)が同点だったため、v2採点基準のタイブレーク規則(未来への影響優先)に従い前者を採用した。BetaNews・TechCrunch・Reworked・iTechPost等で独立検証し、2026年11月10日発表・Google Meet限定でのベータ提供・Team/Enterpriseプランの管理者初期設定の違いを確認した。既出トピックとの重複なし。)
